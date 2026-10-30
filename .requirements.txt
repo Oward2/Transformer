@@ -6,3 +6,4 @@ Pillow
 jupyter
 ipykernel
 scikit-learn
+pandas
